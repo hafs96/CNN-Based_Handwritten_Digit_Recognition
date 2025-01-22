@@ -1,4 +1,4 @@
-Handwritten Digit Classification Using CNNs
+<h2> Handwritten Digit Classification Using CNNs</h2>
 
 This project is about using a Convolutional Neural Network (CNN) to classify handwritten digits (0-9) from the MNIST dataset.
 
