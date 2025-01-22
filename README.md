@@ -31,7 +31,7 @@ steps in neural networks and machine learning.
 <h3>Repository</h3>
 <p>
 You can explore the project details, code, and results in this repository: 
-<a href="[https://github.com/hafs96/Handwritten_Digit_Classification_Using_CNNs](https://github.com/hafs96/CNN-Based_Handwritten_Digit_Recognition)" target="_blank">
+<a href="https://github.com/hafs96/CNN-Based_Handwritten_Digit_Recognition" target="_blank">
 GitHub Repository
 </a>.
 </p>
